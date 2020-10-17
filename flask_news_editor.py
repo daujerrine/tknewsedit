@@ -21,7 +21,7 @@ from app     import db
 from app.dm  import Post
 
 # Example Driver for Flask-SQLAlchemy.
-# You may bave to run this in a flask virtual environment first
+# You may bave to run this in a flask virtual environment first.
 
 class Flask_SQLAlchemyFeedDatabase(FeedDatabase):
     """

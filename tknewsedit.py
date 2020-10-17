@@ -1,6 +1,8 @@
 """
     tknewsedit: Tk Application for editing news
+
     Copyright (c) 2020 Anamitra Ghorui
+    This file is part of tknewsedit
 
     tknewsedit is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
