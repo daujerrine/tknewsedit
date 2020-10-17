@@ -1,0 +1,6 @@
+#!/bin/bash
+# Demo application for editing a flask sqlalchemy database with a news table.
+flask_venv_path="bin/activate"
+
+. $flask_venv_path
+python3 ./flask_news_editor.py
