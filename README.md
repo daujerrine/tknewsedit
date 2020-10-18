@@ -15,5 +15,4 @@ script.
 
 ## Screenshot
 <img src = ".extra/scrot_feed_editor.png"
-     alt = "screenshot"
-     width = "931" height = "587" />
+     alt = "screenshot"/>
